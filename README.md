@@ -109,6 +109,8 @@
 * For Categorical variable clustering, use K Modes
 * It uses the dissimilarities(total mismatch) between data points
 * Lesser the dissimilarities, the more our data points are closer
+
+* End.
 * It uses Mode for most value in the column
 
 ### 20 K Modes (Python Code)
